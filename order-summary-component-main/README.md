@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](/screenshot.jpg)
+![Design preview for the Order summary card coding challenge](https://github.com/BikoiFr/order-summary-component-main/blob/main/order-summary-component-main/screenshot.jpg)
 
 ## Welcome! 👋
 
